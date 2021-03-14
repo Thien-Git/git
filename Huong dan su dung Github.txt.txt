@@ -11,4 +11,4 @@ HƯỚNG DẪN SỬ DỤNG GITHUB
 9. Xong việc tạo repo --> đẩy lên web Github 1 project mới tinh.
 10. Kéo 1 Project về: copy link clone trong trang GitHub-->cmd tại thư mục muốn chứa Project gõ [git clone pastelinkvaoday] <enter>.-->5s tải về xong.
 
-11. Chỉnh sửa các kiểu trong Project đó,  xong đẩy lên GitHub lại bằng cmd trong thư mục chứa Project gõ [git push]<enter>
+11. Chỉnh sửa các kiểu trong Project đó,  xong đẩy lên GitHub lại bằng cmd trong thư mục chứa Project gõ [git push]<enter>.
