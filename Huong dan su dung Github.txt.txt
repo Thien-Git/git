@@ -1,0 +1,14 @@
+HƯỚNG DẪN SỬ DỤNG GITHUB
+
+1. Cài đặt GitHub trên máy tính (lên web tải về các thứ các thứ...) 
+2. Khởi tạo local Repo (kho lưu trữ) trên máy tính: vào thư mục chứa sourcode mở cmd gõ: git init <enter>
+3. Thêm file vào local: gõ [git add tenfile.morong] <enter> hoặc thêm tất cả các file có trong thư mục đó thì gõ [git add .] <enter>
+4. Kiểm tra gõ [git status]
+5. Commit file (xác nhận những thay đổi): gõ [git commit -m "Thông điệp bạn muốn thông báo"]<enter> kiểm tra bằng gõ [git log] or [git status]. Xong
+6. Lên trang https://github.com/ đăng nhập tài khoản, tạo New Repository, đặt tên-->được 1 link-->(copy link)
+7. Vô lại máy tính gõ tiếp [git remote add origin dánlinkvàođây] <enter>
+8. Gõ tiếp [git push -u origin master] <enter>
+9. Xong việc tạo repo --> đẩy lên web Github 1 project mới tinh.
+10. Kéo 1 Project về: copy link clone trong trang GitHub-->cmd tại thư mục muốn chứa Project gõ [git clone pastelinkvaoday] <enter>.-->5s tải về xong.
+
+11. Chỉnh sửa các kiểu trong Project đó,  xong đẩy lên GitHub lại bằng cmd trong thư mục chứa Project gõ [git push]<enter>
